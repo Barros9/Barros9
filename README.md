@@ -1,10 +1,10 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/Barros9/Barros9/master/wave.gif" width="30px">
 
 Hi, I'm Barros9 and I'm a software developer. Mostly, I'm interested in mobile app development with a focus on Android 
-<img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/android.svg" width="20px">.<br>
-Also, I'm a Kotlin lover <img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/kotlin.svg" width="15px">.<br>
+<img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/android.svg" width="20px"><br>
+Also, I'm a Kotlin lover <img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/kotlin.svg" width="15px"><br>
 You can find me on GitLab too with <a href="https://gitlab.com/developerdeveloperdeveloper">DDD</a> group 
-<img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/chainsaw.svg" width="20px">.
+<img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/chainsaw.svg" width="25px">
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=ff7900)
