@@ -4,8 +4,7 @@ Hi, I'm Barros9 and I'm a software developer. Mostly, I'm interested in mobile a
 <a href="https://developer.android.com/"><img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/android.svg" width="20px"></a><br>
 Also, I'm a Kotlin lover 
 <a href="https://kotlinlang.org/"><img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/kotlin.svg" width="15px"></a><br>
-You can find me on GitLab too with <a href="https://gitlab.com/developerdeveloperdeveloper">DDD</a> group 
-<a href="https://gitlab.com/developerdeveloperdeveloper"><img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/chainsaw.svg" width="25px"></a>
+You can find me on Motoserra group <img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/chainsaw.svg" width="25px">
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=ff7900)
