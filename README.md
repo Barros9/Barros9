@@ -23,7 +23,7 @@ You can find me on Motoserra group <img align="center" src="https://raw.githubus
 
 <!-- Most used languages -->
 <a href="https://github.com/Barros9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barros9&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=ff7900&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barros9&title_color=ffffff&text_color=c9cacc&icon_color=ff7900&bg_color=1d1f21" />
 </a>
 
 <!-- Project
