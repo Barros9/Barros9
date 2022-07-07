@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/Barros9/Barros9/master/wave.gif" width="30px">
+## Hi there! :wave:
 
 Hi, I'm Barros9 and I'm a software developer. Mostly, I'm interested in mobile app development with a focus on Android 
 <a href="https://developer.android.com/"><img align="center" src="https://raw.githubusercontent.com/Barros9/Barros9/master/android.svg" width="20px"></a><br>
