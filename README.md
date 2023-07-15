@@ -9,7 +9,6 @@ You can find me on Motoserra group <img align="center" src="https://raw.githubus
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=ff7900)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff7900)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ff7900)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=ff7900)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=ff7900)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=ff7900)
